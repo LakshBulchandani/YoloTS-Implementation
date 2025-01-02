@@ -18,18 +18,18 @@ Application Scenarios of Traffic Sign Detection in Autonomous Driving.
 <table>
 <thead>
   <tr>
-    <th>Datsets</th>
-    <th>TT100K</th>
-    <th>CCTSDB2021</th>
-    <th>Generated-TT100K-weather</th>
+    <th style="text-align: center;">Datsets</th>
+    <th style="text-align: center;">TT100K</th>
+    <th style="text-align: center;">CCTSDB2021</th>
+    <th style="text-align: center;">Generated-TT100K-weather</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Download</td>
-    <td> <a href="https://pan.quark.cn/s/530106601c4f">Download </a> </td>
-    <td> <a href="https://pan.quark.cn/s/381dcda5c010">Download </a> </td>
-    <td> <a href="https://pan.quark.cn/s/5359c7c3720a">Download </a> </td>
+    <td style="text-align: center;"> <a href="https://pan.quark.cn/s/530106601c4f">Download </a> </td>
+    <td style="text-align: center;"> <a href="https://pan.quark.cn/s/381dcda5c010">Download </a> </td>
+    <td style="text-align: center;"> <a href="https://pan.quark.cn/s/5359c7c3720a">Download </a> </td>
   </tr>
 </tbody>
 </table>
@@ -101,15 +101,15 @@ The trained weight files for different datasets are listed below, including both
 <table>
 <thead>
   <tr>
-    <th>Weights</th>
-    <th>ckpt</th>
-    <th>tensorrt</th>
+    <th style="text-align: center;">Weights</th>
+    <th style="text-align: center;">ckpt</th>
+    <th style="text-align: center;">tensorrt</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Baidu Cloud</td>
-    <td colspan="2"> <a href="https://pan.quark.cn/s/64738750698d">Download </a> </td>
+    <td colspan="2" style="text-align: center;"> <a href="https://pan.quark.cn/s/64738750698d">Download </a> </td>
   </tr>
 </tbody>
 </table>
