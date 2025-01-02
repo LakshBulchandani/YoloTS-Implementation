@@ -27,9 +27,9 @@ Application Scenarios of Traffic Sign Detection in Autonomous Driving.
 <tbody>
   <tr>
     <td>Download</td>
-    <td> <a href="https://pan.baidu.com/s/1TEzyt8w2C2z06hj2M-yNsg?pwd=4wz8 ">Download </a> </td>
-    <td> <a href="https://github.com/jefferson2021ufc/EdgeFireSmoke?tab=readme-ov-file">Download </a> </td>
-    <td> <a href="https://github.com/jefferson2021ufc/EdgeFireSmoke?tab=readme-ov-file">Download </a> </td>
+    <td> <a href="https://pan.quark.cn/s/530106601c4f">Download </a> </td>
+    <td> <a href="https://pan.quark.cn/s/381dcda5c010">Download </a> </td>
+    <td> <a href="https://pan.quark.cn/s/5359c7c3720a">Download </a> </td>
   </tr>
 </tbody>
 </table>
@@ -109,8 +109,7 @@ The trained weight files for different datasets are listed below, including both
 <tbody>
   <tr>
     <td>Baidu Cloud</td>
-    <td> <a href="https://pan.baidu.com/s/1728RkFAG8tYlpF5OkoGc0A?pwd=b32l ">Download </a> </td>
-    <td> <a href="https://pan.baidu.com/s/1kuYaKuQSgCHmTxgcrthM7w?pwd=1nqm ">Download </a> </td>
+    <td> <a href="https://pan.quark.cn/s/64738750698d">Download </a> </td>
   </tr>
 </tbody>
 </table>
