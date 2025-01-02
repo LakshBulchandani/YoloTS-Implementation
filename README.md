@@ -10,7 +10,7 @@
 ![Flowchart](fig/Flowchart.png)
 Application Scenarios of Traffic Sign Detection in Autonomous Driving.
 
-![STKfprmer](fig/network.png)
+![YOLO-TS](fig/network.png)
 **YOLO-TS architecture.** The structure of YOLO-TS.
 
 ## Datasets
@@ -93,7 +93,7 @@ if __name__ == '__main__':
 See YOLO [Python Docs](https://docs.ultralytics.com/usage/python/) for more examples.
 
 ## Experiment result
-![result](fig/result.png)
+![result](fig/result1.png)
 
 ## Pre-trained Models
 The trained weight files for different datasets are listed below, including both `.pth` and `.trt` formats.
