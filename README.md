@@ -67,12 +67,13 @@ datasets
 pip install -r requirements.txt
 ```
 
-## (Optional: If you are training your own dataset.) Get n1,n2,n3,n4,n5 and Replace them in YOLO-TS.yaml
+## (Optional: If you are training your own dataset.) 
+### Get n1,n2,n3,n4,n5 and Replace them in YOLO-TS.yaml
 * Replace the path in calculate_depth.py with the path to your dataset's training set, and name it txt_name.
 * Run python calculate_depth.py to obtain n1~n5.
 * Replace n1~n5 in the backbone section of YOLO-TS.yaml with the values obtained in step 2.
 
-## Training
+## Usage
 ### Python
 
 YOLO may also be used directly in a Python environment, and accepts the same [arguments](https://docs.ultralytics.com/usage/cfg/) as in the CLI example above:
