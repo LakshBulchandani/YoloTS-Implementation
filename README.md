@@ -78,7 +78,7 @@ from ultralytics import YOLO
 if __name__ == '__main__':
 
     # Load a model
-    model = YOLO("./best.pt")
+    model = YOLO("./YOLO-TS.yaml")  # or model = YOLO("./best.pt")
 
     # Train the model
     model.train(data="./TT100K-2016.yaml", epochs=200, batch=48, imgsz=640, device='0,1,2,3')
