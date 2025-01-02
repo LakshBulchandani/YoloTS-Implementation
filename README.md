@@ -109,7 +109,7 @@ The trained weight files for different datasets are listed below, including both
 <tbody>
   <tr>
     <td>Baidu Cloud</td>
-    <td> <a href="https://pan.quark.cn/s/64738750698d">Download </a> </td>
+    <td colspan="2"> <a href="https://pan.quark.cn/s/64738750698d">Download </a> </td>
   </tr>
 </tbody>
 </table>
