@@ -108,8 +108,8 @@ The trained weight files for different datasets are listed below, including both
 </thead>
 <tbody>
   <tr>
-    <td>Baidu Cloud</td>
-    <td colspan="2"> <a href="https://pan.quark.cn/s/64738750698d">Download </a> </td>
+    <th>Quark Cloud</th>
+    <th colspan="2"> <a href="https://pan.quark.cn/s/6a3002dfaab0">Download (MQC4)</a> </th>
   </tr>
 </tbody>
 </table>
