@@ -12,6 +12,18 @@ scipy>=1.4.1
 torch>=1.8.0
 torchvision>=0.9.0
 tqdm>=4.64.0
+dill
+torchaudio
+#numpy==1.26.0
+pandas
+pillow
+#matplotlib
+kiwisolver
+#scipy
+opencv-python
+requests
+flask
+dlib
 
 # Logging -------------------------------------
 # tensorboard>=2.13.0

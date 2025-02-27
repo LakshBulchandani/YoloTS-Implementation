@@ -1,6 +1,6 @@
 # train and val data
-train: ..\TT100K-2016/train/  # 6034 images
-val: ..\TT100K-2016/test/  # 3016 images
+train: "D:\\JMYOLOTS\\YOLO-TS\\TT100K-2016\\train"  # 6034 images
+val: "D:\\JMYOLOTS\\YOLO-TS\\TT100K-2016\\test"  # 3016 images
 
 
 # number of classes
